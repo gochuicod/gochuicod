@@ -3,7 +3,7 @@
 - 💉 Get vaccinated!
 - 💪 Trying to stay in shape 🥵
 - ⌨️ Eager to learn more
-- 🌐 2021 Goal: Add new content to my github.io website
+- 🌐 2021 Goal: Add more content to my github.io website
 ## 📃 My Github Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gochuicod)](https://github.com/gochuicod/github-readme-stats)
