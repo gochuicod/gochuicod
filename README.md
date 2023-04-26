@@ -11,6 +11,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="left">
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/mongodb-original.svg' width="40" height="40">
   <img src="https://github.com/devicons/devicon/tree/v2.15.1/icons/javascript/mongodb-original.svg" height="40" width="48" alt="javascript logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="48" alt="express logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="48" alt="react logo"/>
