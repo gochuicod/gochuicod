@@ -3,7 +3,10 @@
 #### Goals:
 - To stay in shape 💪
 - To pile up knowledge 🧠
-- To be multilingual 👈😉👈<br><br>
+- To be multilingual 👈😉👈<br>
+#### Certifications ([Check it out here!](https://www.linkedin.com/in/gochuicod/)):
+- Google IT Support Professional
+- Google IT Automation with Python Professional<br><br>
 
 ## My Github Stats 📈
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gochuicod&show_icons=true&theme=transparent)
