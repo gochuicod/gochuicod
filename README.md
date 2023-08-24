@@ -1,5 +1,5 @@
 ## Hey there! 👋 I am Darelle Gochuico
-### I'm a Student 🧑‍🎓 and an aspiring Developer 👩‍💻
+### I'm a 🧑‍🎓 Student at the University of Cebu - Main Campus
 #### Goals:
 - To stay in shape 💪
 - To pile up knowledge 🧠
