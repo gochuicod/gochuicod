@@ -33,7 +33,7 @@
         </a>
       </td>
       <td align="center">Google Data Analytics</td>
-      <td align="center">Google Sheets · Tableau · Data Analysis · Data Cleaning · Data Visualization · R (Programming Language) · SQL · Data-driven Decision Making</td>
+      <td align="center">Data Aggregation · Data Analytics · Data Calculations · Data Cleaning · Data Ethics · Data Visualization · R · Spreadsheets · SQL</td>
     </tr>
     <tr>
       <td align="center">
