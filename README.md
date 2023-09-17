@@ -28,14 +28,22 @@
   <tbody>
     <tr>
       <td align="center">
+        <a href="https://www.credly.com/badges/104a2c8d-13fd-410b-b872-6710db217b8a/public_url" target="_blank">
+          <img src="https://images.credly.com/size/340x340/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" width=150/>
+        </a>
+      </td>
+      <td align="center">Google Data Analytics</td>
+      <td align="center">Google Sheets · Tableau · Data Analysis · Data Cleaning · Data Visualization · R (Programming Language) · SQL · Data-driven Decision Making</td>
+    </tr>
+    <tr>
+      <td align="center">
         <a href="https://www.credly.com/badges/aa9ea310-ea73-4c82-a090-4d0e009e6cb1/public_url" target="_blank">
           <img src="https://images.credly.com/size/340x340/images/efbdc0d6-b46e-4e3c-8cf8-2314d8a5b971/GCC_badge_python_1000x1000.png" width=150/>
         </a>
       </td>
       <td align="center">Google IT Automation with Python</td>
-      <td align="center">Puppet, Google Cloud Platform, Python, Bash, Regular Expressions, Troubleshooting, VCS, Git, and Github</td>
+      <td align="center">Puppet · Google Cloud Platform · Python · Bash · Regular Expressions · Troubleshooting · VCS · Git · Github</td>
     </tr>
-  <tbody>
     <tr>
       <td align="center">
         <a href="https://www.credly.com/badges/f4361e30-a2f9-402d-a005-5e9f515c9854/public_url" target="_blank">
@@ -43,7 +51,7 @@
         </a>
       </td>
       <td align="center">Google IT Support</td>
-      <td align="center">Technical Support, Networking, IT Infrastructure Management, Linux, and Information Security</td>
+      <td align="center">Technical Support · Networking · IT Infrastructure Management · Linux · Information Security</td>
     </tr>
   </tbody>
 </table>
