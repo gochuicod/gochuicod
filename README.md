@@ -28,6 +28,15 @@
   <tbody>
     <tr>
       <td align="center">
+        <a href="https://www.credly.com/badges/b610906a-5429-4e46-9f43-cf2b37cefa1c/public_url" target="_blank">
+          <img src="https://images.credly.com/size/340x340/images/e91ed0b0-842b-417f-8d2f-b07535febdda/image.png" width=250/>
+        </a>
+      </td>
+      <td align="center">Meta Front-End Developer</td>
+      <td align="center">Version Control · Cascading Style Sheets (CSS) · UX/UI · Jest · Git · GitHub · JavaScript · HTML · Unit Testing · React.js · Data Structures</td>
+    </tr>
+    <tr>
+      <td align="center">
         <a href="https://www.credly.com/badges/104a2c8d-13fd-410b-b872-6710db217b8a/public_url" target="_blank">
           <img src="https://images.credly.com/size/340x340/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" width=250/>
         </a>
