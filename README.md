@@ -28,6 +28,16 @@
   <tbody>
     <tr>
       <td align="center">
+        <a href="https://www.credly.com/badges/b4387cc9-d37d-40f1-b4d5-e65c41401d5d/public_url" target="_blank">
+          <img src="https://images.credly.com/size/340x340/images/4d81763c-b917-4ab9-92be-103af95c0a21/image.png" width=250/>
+        </a>
+      </td>
+      <td align="center">Meta Back-End Developer</td>
+      <td align="center">APIs · Cloud Hosting · Coding Interview Skills · Databases · JSON · Python · SQL · Version Control · XML · Django
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
         <a href="https://www.credly.com/badges/b610906a-5429-4e46-9f43-cf2b37cefa1c/public_url" target="_blank">
           <img src="https://images.credly.com/size/340x340/images/e91ed0b0-842b-417f-8d2f-b07535febdda/image.png" width=250/>
         </a>
@@ -69,7 +79,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![](https://skillicons.dev/icons?i=html,css,js,ts,mongodb,express,react,nodejs,php,python,flask,mysql,git,bootstrap,tailwind,c,java,jquery,bash,linux,figma,vim,vscode)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=html,css,js,ts,mongodb,express,react,nodejs,php,python,flask,mysql,git,bootstrap,tailwind,c,java,jquery,bash,linux,figma,vim,vscode,django)](https://skillicons.dev)
 
 #
 
