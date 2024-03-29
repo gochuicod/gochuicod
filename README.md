@@ -40,7 +40,21 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![](https://skillicons.dev/icons?i=html,css,js,ts,mongodb,express,react,nodejs,php,python,flask,mysql,git,bootstrap,tailwind,c,java,jquery,bash,linux,figma,vim,vscode,django)](https://skillicons.dev)
+<h5>Frontend</h5>
+
+[![](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap,tailwind,jquery)](https://skillicons.dev)
+
+<h5>Backend</h5>
+
+[![](https://skillicons.dev/icons?i=express,nodejs,php,python,flask,c,java,django,fastapi)](https://skillicons.dev)
+
+<h5>Database</h5>
+
+[![](https://skillicons.dev/icons?i=mongodb,mysql,sqlite)](https://skillicons.dev)
+
+<h5>Tools</h5>
+
+[![](https://skillicons.dev/icons?i=git,github,bash,linux,vim,vscode,postman,figma)](https://skillicons.dev)
 
 #
 
