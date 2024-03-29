@@ -46,7 +46,7 @@
 
 <h5>Backend</h5>
 
-[![](https://skillicons.dev/icons?i=express,nodejs,php,python,flask,c,java,django,fastapi)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=nodejs,express,python,flask,django,fastapi,c,java,php)](https://skillicons.dev)
 
 <h5>Database</h5>
 
