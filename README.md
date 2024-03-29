@@ -1,21 +1,18 @@
-<h1 align="center">Hi 👋, I'm Darelle Gochuico</h1>
-<h3 align="center">A knowledge-hungry full-stack developer from the Philippines</h3>
+<h2 align="center">Hi 👋, I'm Darelle Gochuico</h2>
 
 - 🔭 I’m currently working on [PSITS-WEB](https://github.com/PSITS-UC-MAIN/PSITS-WEB)
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available [here](https://gochuicod.github.io/pages/gallery.html)
+- 👨‍💻 All of my projects are available [here](https://github.com/gochuicod?tab=repositories)
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **MongoDB**, **Python**, **FASTAPI**, **ReactJS**, **NodeJS**
 
 - 📫 How to reach me **gochuicodarelleq@gmail.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1nU1a2pgAlr7f22wL5Hsilv6QBmwOfAOu/view?usp=sharing)
-
 #
 
-<h3 align="left">Certifications:</h3>
+<h3 align="left">Certifications</h3>
 
 <a href="https://www.credly.com/badges/3a8778ba-b928-4d5f-a281-3044f4d6020f/public_url" target="_blank">
   <img src="https://images.credly.com/size/340x340/images/997d4586-e7b2-4174-9c76-5c7304953e2c/image.png" width=130/>
@@ -38,32 +35,34 @@
 
 #
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools</h3>
 
-<h5>Frontend</h5>
+<h4>Frontend</h5>
 
 [![](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap,tailwind,jquery)](https://skillicons.dev)
 
-<h5>Backend</h5>
+<h4>Backend</h5>
 
 [![](https://skillicons.dev/icons?i=nodejs,express,python,flask,django,fastapi,c,java,php)](https://skillicons.dev)
 
-<h5>Database</h5>
+<h4>Database</h5>
 
 [![](https://skillicons.dev/icons?i=mongodb,mysql,sqlite)](https://skillicons.dev)
 
-<h5>Tools</h5>
+<h4>Tools</h5>
 
 [![](https://skillicons.dev/icons?i=git,github,bash,linux,vim,vscode,postman,figma)](https://skillicons.dev)
 
 #
+
+<h3>Github Stats</h3>
 
 ![](https://github-readme-stats.vercel.app/api?username=gochuicod&show_icons=true&theme=transparent&hide_title=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 #
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://twitter.com/gochuicod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gochuicod" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gochuicod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gochuicod" height="30" width="40" /></a>
