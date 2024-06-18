@@ -51,7 +51,7 @@
 
 <h4>Tools</h5>
 
-[![](https://skillicons.dev/icons?i=git,github,bash,linux,neovim,vscode,postman,figma)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=git,github,bash,linux,ubuntu,vim,vscode,postman,figma,tensorflow,vite,discord,gmail,gcp,jest,vercel,wordpress)](https://skillicons.dev)
 
 #
 
