@@ -1,14 +1,12 @@
-<h2 align="center">Hi 👋, I'm Darelle Gochuico</h2>
+<h2 align="start">Hi 👋, I'm Darelle Gochuico</h2>
 
-- 🔭 I’m currently working on [PSITS-WEB](https://github.com/PSITS-UC-MAIN/PSITS-WEB)
+👋 A junior full-stack web developer passionate about building efficient and scalable applications. I specialize in FastAPI, Node.js, React, and MongoDB, with a growing interest in Next.js for modern web development.
 
-- 🌱 I’m currently learning **Next.js**
+💻 By day (or rather, night 🌙), I work the graveyard shift, balancing my time between coding, calisthenics, and expanding my skills. I take on freelance projects, providing fair and reliable software solutions tailored to clients' needs.
 
-- 👨‍💻 All of my projects are available [here](https://github.com/gochuicod?tab=repositories)
+🎮 When I'm not coding, I'm most likely working, gaming alone or enjoying my sleep.
 
-- 💬 Ask me about **MongoDB**, **Python**, **FASTAPI**, **ReactJS**, **NodeJS**
-
-- 📫 How to reach me **gochuicodarelleq@gmail.com**
+🚀 Always learning, always building. Let's connect!
 
 #
 
