@@ -13,22 +13,22 @@
 <h3 align="left">Certifications</h3>
 
 <a href="https://www.credly.com/badges/3a8778ba-b928-4d5f-a281-3044f4d6020f/public_url" target="_blank">
-  <img src="https://images.credly.com/size/340x340/images/997d4586-e7b2-4174-9c76-5c7304953e2c/image.png" width=100/>
+  <img src="https://images.credly.com/size/340x340/images/997d4586-e7b2-4174-9c76-5c7304953e2c/image.png" width=120/>
 </a>
 <a href="https://www.credly.com/badges/b4387cc9-d37d-40f1-b4d5-e65c41401d5d/public_url" target="_blank">
-  <img src="https://images.credly.com/size/340x340/images/4d81763c-b917-4ab9-92be-103af95c0a21/image.png" width=100/>
+  <img src="https://images.credly.com/size/340x340/images/4d81763c-b917-4ab9-92be-103af95c0a21/image.png" width=120/>
 </a>
 <a href="https://www.credly.com/badges/b610906a-5429-4e46-9f43-cf2b37cefa1c/public_url" target="_blank">
-  <img src="https://images.credly.com/size/340x340/images/e91ed0b0-842b-417f-8d2f-b07535febdda/image.png" width=100/>
+  <img src="https://images.credly.com/size/340x340/images/e91ed0b0-842b-417f-8d2f-b07535febdda/image.png" width=120/>
 </a>
 <a href="https://www.credly.com/badges/104a2c8d-13fd-410b-b872-6710db217b8a/public_url" target="_blank">
-  <img src="https://images.credly.com/size/340x340/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" width=100/>
+  <img src="https://images.credly.com/size/340x340/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" width=150/>
 </a>
 <a href="https://www.credly.com/badges/aa9ea310-ea73-4c82-a090-4d0e009e6cb1/public_url" target="_blank">
-  <img src="https://images.credly.com/size/340x340/images/efbdc0d6-b46e-4e3c-8cf8-2314d8a5b971/GCC_badge_python_1000x1000.png" width=100/>
+  <img src="https://images.credly.com/size/340x340/images/efbdc0d6-b46e-4e3c-8cf8-2314d8a5b971/GCC_badge_python_1000x1000.png" width=150/>
 </a>
 <a href="https://www.credly.com/badges/f4361e30-a2f9-402d-a005-5e9f515c9854/public_url" target="_blank">
-  <img src="https://images.credly.com/size/340x340/images/fb97a12f-c0f1-4f37-9b7d-4a830199fe84/GCC_badge_IT_Support_1000x1000.png" width=100/>
+  <img src="https://images.credly.com/size/340x340/images/fb97a12f-c0f1-4f37-9b7d-4a830199fe84/GCC_badge_IT_Support_1000x1000.png" width=150/>
 </a>
 
 #
