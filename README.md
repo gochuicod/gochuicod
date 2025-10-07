@@ -2,9 +2,9 @@
 
 👋 A junior full-stack web developer passionate about building efficient and scalable applications. I specialize in FastAPI, Node.js, React, and MongoDB, with a growing interest in Next.js for modern web development.
 
-💻 By day (or rather, night 🌙), I work the graveyard shift, balancing my time between coding, calisthenics, and expanding my skills. I take on freelance projects, providing fair and reliable software solutions tailored to clients' needs.
+💻 By day (or rather, night 🌙), I work the graveyard shift, balancing my time between coding, fitness, and expanding my skills. I take on freelance projects, providing fair and reliable software solutions tailored to clients' needs.
 
-🎮 When I'm not coding, I'm most likely working, gaming alone or enjoying my sleep.
+🎮 When I'm not coding, I'm most likely traveling, gaming alone or enjoying my sleep.
 
 🚀 Always learning, always building. Let's connect!
 
