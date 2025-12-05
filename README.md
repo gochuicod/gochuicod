@@ -53,13 +53,6 @@
 
 #
 
-<h3>Github Stats</h3>
-
-![](https://github-readme-stats.vercel.app/api?username=gochuicod&show_icons=true&theme=transparent&hide_title=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-#
-
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://twitter.com/gochuicod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gochuicod" height="30" width="40" /></a>
