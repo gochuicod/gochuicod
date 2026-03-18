@@ -1,3 +1,63 @@
+<h3 align="center">Darelle Q.</h3>
+<p align="center">Full-Stack Developer & Data Engineer at <strong>InfiGroup</strong></p>
+<p align="center">Building across logistics, fintech, sports, healthcare, and e-commerce — serving ASEAN & Japan markets.</p>
+
+#
+
+<h3 align="left">What I'm Working On</h3>
+
+- **ShipX** — Logistics marketing platform (5 ASEAN locales, Payload CMS, shipment tracking, HS code generator)
+- **Gloria** — Spiritual marketing funnel with Stripe payments (Japan market, JPY)
+- **R1VALS** — $100K 7v7 football tournament platform (Asia)
+- **Fyn** — Personal finance & stock monitoring app (PSE/global stocks, AI insights)
+- **DatabaseToolkit** — AI-powered marketing analytics (RFM analysis, customer segmentation, 22.4M records)
+- **base_system** — Industry-grade Next.js 16 starter template (10-phase hardened, used across all projects)
+
+#
+
+<h3 align="left">Tech Stack</h3>
+
+<h4>Frontend</h4>
+
+[![](https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,html,css,js)](https://skillicons.dev)
+
+<h4>Backend & Data</h4>
+
+[![](https://skillicons.dev/icons?i=nodejs,express,supabase,postgres,python,flask,django,fastapi)](https://skillicons.dev)
+
+<h4>CMS & Payments</h4>
+
+<p>
+  <img src="https://img.shields.io/badge/Payload_CMS-000000?style=for-the-badge&logo=payloadcms&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Resend-000000?style=for-the-badge&logo=resend&logoColor=white" />
+</p>
+
+<h4>Database & Analytics</h4>
+
+[![](https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite)](https://skillicons.dev)
+
+<p>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" />
+  <img src="https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white" />
+</p>
+
+<h4>AI & LLMs</h4>
+
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+</p>
+
+<h4>DevOps & Tools</h4>
+
+[![](https://skillicons.dev/icons?i=git,github,vercel,vscode,figma,bash,linux,docker,gcp)](https://skillicons.dev)
+
+#
+
 <h3 align="left">Certifications</h3>
 
 <a href="https://www.credly.com/badges/3a8778ba-b928-4d5f-a281-3044f4d6020f/public_url" target="_blank">
@@ -18,26 +78,6 @@
 <a href="https://www.credly.com/badges/f4361e30-a2f9-402d-a005-5e9f515c9854/public_url" target="_blank">
   <img src="https://images.credly.com/size/340x340/images/fb97a12f-c0f1-4f37-9b7d-4a830199fe84/GCC_badge_IT_Support_1000x1000.png" width=130/>
 </a>
-
-#
-
-<h3 align="left">Languages and Tools</h3>
-
-<h4>Frontend</h5>
-
-[![](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap,tailwind,jquery)](https://skillicons.dev)
-
-<h4>Backend</h5>
-
-[![](https://skillicons.dev/icons?i=nodejs,express,python,flask,django,fastapi,c,java,php)](https://skillicons.dev)
-
-<h4>Database</h5>
-
-[![](https://skillicons.dev/icons?i=mongodb,mysql,sqlite)](https://skillicons.dev)
-
-<h4>Tools</h5>
-
-[![](https://skillicons.dev/icons?i=git,github,bash,linux,ubuntu,vim,vscode,postman,figma,tensorflow,vite,discord,gmail,gcp,jest,vercel,wordpress)](https://skillicons.dev)
 
 #
 
