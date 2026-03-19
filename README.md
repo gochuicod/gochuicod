@@ -35,7 +35,7 @@
 
 <h4>Database & Analytics</h4>
 
-[![](https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,supabase)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite)](https://skillicons.dev)
 
 <p>
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
