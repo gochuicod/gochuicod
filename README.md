@@ -6,11 +6,11 @@
 
 <h3 align="left">What I'm Working On</h3>
 
-- **ShipX** — Logistics marketing platform (5 ASEAN locales, Payload CMS, shipment tracking, HS code generator)
-- **Gloria** — Spiritual marketing funnel with Stripe payments (Japan market, JPY)
-- **R1VALS** — $100K 7v7 football tournament platform (Asia)
+- **SEA cross-border logistics aggregator** — Multilingual marketing platform (5 ASEAN locales, Payload CMS, shipment tracking, HS code generator)
+- **Direct-response campaign site, Japan** — Marketing funnel with Stripe payments (JPY)
+- **Regional football tournament platform, Asia** — 7v7 tournament registration and fixtures
 - **Fyn** — Personal finance & stock monitoring app (PSE/global stocks, AI insights)
-- **DatabaseToolkit** — AI-powered marketing analytics (RFM analysis, customer segmentation, 22.4M records)
+- **AI marketing analytics platform, Japan** — RFM analysis and customer segmentation
 - **base_system** — Industry-grade Next.js 16 starter template (10-phase hardened, used across all projects)
 
 #
