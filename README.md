@@ -1,5 +1,6 @@
 <h3 align="center">Darelle Gochuico</h3>
-<p align="center">Full-Stack Developer & Data Engineer at <strong>InfiGroup</strong></p>
+<p align="center"><strong>Independent Full-Stack Engineer</strong> · open to part-time &amp; freelance</p>
+<p align="center">Client work built at InfiGroup, now Natiiv AI.</p>
 <p align="center">Building across logistics, fintech, sports, healthcare, and e-commerce — serving ASEAN & Japan markets.</p>
 
 #
